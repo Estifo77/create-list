@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="webpart-2-client-side-solution" ProductID="87afc708-4180-495f-bac8-92324b5cec58" Version="1.0.0.0" SharePointMinVersion="16.0.0.0" IsClientSideSolution="true" SkipFeatureDeployment="true"><Properties><Title>webpart-2-client-side-solution</Title></Properties></App>
